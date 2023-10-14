@@ -6,8 +6,7 @@
 
 
 
--  I’m currently learning ->  ![image](https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-html-5-icon.png)     ![pngegg](https://github.com/YusufTahaKasdemir/YusufTahaKasdemir/assets/130496561/8e99f3e6-4d35-45fa-a4d3-df541a13d51f)     ![pngegg (1)](https://github.com/YusufTahaKasdemir/YusufTahaKasdemir/assets/130496561/2c950e04-1f3a-490f-81d1-1896503f90f3)     
-
+-  I’m currently learning -> PYTHON-C-CSS-HTML-C++
  
  
  
