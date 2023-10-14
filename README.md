@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @YusufTahaKasdemir
 - 👀 I’m interested in Cyber Security👩‍💻
- ![pngegg (2)](https://github.com/YusufTahaKasdemir/YusufTahaKasdemir/assets/130496561/4919f842-551e-434e-8430-7a3a5e42d61b)
+
 
 
 
