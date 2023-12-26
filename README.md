@@ -6,7 +6,7 @@
 
 
 
--  I’m currently learning -> PYTHON-C-CSS-HTML-C++
+-  I’m currently learning -> JS-CSS-HTML-C++
  
  
  
